@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se>
+<w>Несчастная<ana lex="несчастный" gr="A=nom,sg,plen,f" /></w>
+<w>кошка<ana lex="кошка" gr="S,f,anim=nom,sg" /></w>
+<w>порезала<ana lex="порезать" gr="V,pf,tran=praet,sg,indic,f" /></w>
+<w>лапу<ana lex="лапа" gr="S,f,inan=acc,sg" /></w>
+<w>Сидит<ana lex="сидеть" gr="V,ipf,intr=inpraes,sg,indic,3p" /></w>
+<w>и<ana lex="и" gr="CONJ=" /></w>
+<w>ни<ana lex="ни" gr="PART=" /></w>
+<w>шагу<ana lex="шаг" gr="S,m,inan=dat,sg" /><ana lex="шаг" gr="S,m,inan=part,sg" /><ana lex="шаг" gr="S,m,inan=loc,sg" /></w>
+<w>не<ana lex="не" gr="PART=" /></w>
+<w>может<ana lex="мочь" gr="V,ipf,intr=inpraes,sg,indic,3p" /></w>
+<w>ступить<ana lex="ступать" gr="V,intr=inf,pf" /></w>
+<w>Скорей<ana lex="скоро" gr="ADV=comp" /></w>
+<w>чтобы<ana lex="чтобы" gr="CONJ=" /></w>
+<w>вылечить<ana lex="вылечивать" gr="V,tran=inf,pf" /></w>
+<w>кошкину<ana lex="кошкин" gr="A,plen,poss=dat,sg,m" /><ana lex="кошкин" gr="A,plen,poss=dat,sg,n" /><ana lex="кошкин" gr="A,plen,poss=acc,sg,f" /></w>
+<w>лапу<ana lex="лапа" gr="S,f,inan=acc,sg" /></w>
+<w>Воздушные<ana lex="воздушный" gr="A=acc,pl,plen,inan" /><ana lex="воздушный" gr="A=nom,pl,plen" /></w>
+<w>шарики<ana lex="шарик" gr="S,m,inan=acc,pl" /><ana lex="шарик" gr="S,m,inan=nom,pl" /></w>
+<w>надо<ana lex="надо" gr="ADV,praed=" /></w>
+<w>купить<ana lex="купить" gr="V,pf,tran=inf" /></w>
+<w>И<ana lex="и" gr="CONJ=" /></w>
+<w>сразу<ana lex="сразу" gr="ADV=" /></w>
+<w>столпился<ana lex="столпиться" gr="V,pf,intr=praet,sg,indic,m" /></w>
+<w>народ<ana lex="народ" gr="S,m,inan=acc,sg" /><ana lex="народ" gr="S,m,inan=nom,sg" /></w>
+<w>на<ana lex="на" gr="PR=" /></w>
+<w>дороге<ana lex="дорога" gr="S,f,inan=abl,sg" /><ana lex="дорога" gr="S,f,inan=dat,sg" /></w>
+<w>Шумит<ana lex="шуметь" gr="V,ipf,intr=inpraes,sg,indic,3p" /></w>
+<w>и<ana lex="и" gr="CONJ=" /></w>
+<w>кричит<ana lex="кричать" gr="V,ipf,intr=inpraes,sg,indic,3p" /></w>
+<w>и<ana lex="и" gr="CONJ=" /></w>
+<w>на<ana lex="на" gr="PR=" /></w>
+<w>кошку<ana lex="кошка" gr="S,f,anim=acc,sg" /></w>
+<w>глядит<ana lex="глядеть" gr="V,ipf,tran=inpraes,sg,indic,3p" /></w>
+<w>А<ana lex="а" gr="CONJ=" /></w>
+<w>кошка<ana lex="кошка" gr="S,f,anim=nom,sg" /></w>
+<w>отчасти<ana lex="отчасти" gr="ADV=" /></w>
+<w>идет<ana lex="идти" gr="V,ipf,intr=inpraes,sg,indic,3p" /></w>
+<w>по<ana lex="по" gr="PR=" /></w>
+<w>дороге<ana lex="дорога" gr="S,f,inan=abl,sg" /><ana lex="дорога" gr="S,f,inan=dat,sg" /></w>
+<w>Отчасти<ana lex="отчасти" gr="ADV=" /></w>
+<w>по<ana lex="по" gr="PR=" /></w>
+<w>воздуху<ana lex="воздух" gr="S,m,inan=dat,sg" /><ana lex="воздух" gr="S,m,inan=part,sg" /></w>
+<w>плавно<ana lex="плавно" gr="ADV=" /></w>
+<w>летит<ana lex="лететь" gr="V,ipf,intr=inpraes,sg,indic,3p" /></w>
+</se>
+</body></html>
