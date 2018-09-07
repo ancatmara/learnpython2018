@@ -24,8 +24,10 @@
   </tr>
   <tr>
     <td>1.</td>
-    <td>Настройка окружения. Консольный git. Оформление кода по PEP8. Jupyter notebook. Оформление репозитория и Markdown.</td>
-    <td></td>
+    <td>1. <a href="./Lessons/1/1. Intro.ipynb">Настройка окружения. Оформление кода по PEP8. Jupyter notebook.</a> <br>
+      2. <a href="./Lessons/1/cmd cheatsheet.md">Консольный git.</a><br>
+      3. <a href="./Lessons/1/Markdown.md">Оформление репозитория и Markdown.</a></td>
+    <td><a href="./Homeworks/HW1.md">Виселица</a></td>
     <td></td>
     <td></td>
   </tr>
