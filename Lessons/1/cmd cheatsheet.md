@@ -78,8 +78,9 @@
 
 После установки git необходимо его настроить, это делается с помощью двух команд:
 
-`git config --global user.name "ваш логин на github"
-git config --global user.email "почту, которую указали при регистрации на GitHub.com"`
+`git config --global user.name "ваш логин на github"`
+
+`git config --global user.email "почту, которую указали при регистрации на GitHub.com"`
 
 ### Vim
 
