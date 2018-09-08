@@ -55,8 +55,6 @@
 
 У git очень много возможностей, и про работу с ним написаны толстые книжки. Здесь перечислены только самые часто употребляемые команды.
 
-![](https://raw.githubusercontent.com/thepracticaldev/orly-full-res/master/memorizingsixgitcommands-big.png=250x)
-
 |Команда| Значение|
 |-------| -------:|
 |git clone| Склонировать репозиторий по указанной ссылке|
@@ -86,7 +84,7 @@
 
 В некоторых случаях -- например, если напишете просто `git commit`, а не `git commit -m`, вы попадете в страшное место под названием `vim`, из которого очень сложно выбраться. Да-да, один из самых популярных запросов на Stackoverflow -- ["How to exit the Vim editor"](https://stackoverflow.com/questions/11828270/how-to-exit-the-vim-editor). 
 
-![](https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/05/practicaldev-1-457x600.jpg)
+<img src ="https://raw.githubusercontent.com/thepracticaldev/orly-full-res/master/memorizingsixgitcommands-big.png" width="400px"> <img src="https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/05/practicaldev-1-457x600.jpg" width="400">
 
 ![](https://zgab33vy595fw5zq-zippykid.netdna-ssl.com/wp-content/uploads/2017/05/meme.jpeg)
 
