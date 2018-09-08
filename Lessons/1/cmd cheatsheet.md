@@ -49,7 +49,7 @@
 
 Если у вас установлена Анаконда, то вы можете пользоваться аналогом pip, который называется conda. Для него есть свой собсвенный [cheatsheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf) и [сайт с документацией](https://conda.io/docs/index.html).
 
-**NB!** Если команды python и pip не работают, вернитесь к семинару №8 и почитайте про настройку окружения.
+**NB!** Если команды python и pip не работают, вернитесь к [семинару про настройку окружения](https://github.com/ancatmara/learnpython2018/blob/master/Lessons/1/1.%20Intro.ipynb). 
 
 ## Работа с Git
 
