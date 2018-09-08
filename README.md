@@ -13,6 +13,9 @@
 * Вот [эту форму](https://goo.gl/forms/WAVZWtjpyoRDcgm22) нужно обязательно заполнить, иначе мы не сможем проверять ваши домашки. :)
 * А [это](https://docs.google.com/spreadsheets/d/1MRWqsqtRnsgMb5c2ywL1LKUlDvpD8G0EzG05cPQ7jc4/edit?usp=sharing) ведомости по курсу.
 
+### Telegram
+* [Чат 2-ой группы](https://t.me/joinchat/ADMP3VFYTP7EoizUYT2frg)
+
 ### План курса
 <table>
   <tr>
