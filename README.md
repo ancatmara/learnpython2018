@@ -28,7 +28,7 @@
       2. <a href="./Lessons/1/cmd cheatsheet.md">Консольный git.</a><br>
       3. <a href="./Lessons/1/Markdown.md">Оформление репозитория и Markdown.</a></td>
     <td><a href="./Homeworks/HW1.md">Виселица</a></td>
-    <td>14.09 23:59</td>
+    <td>15.09 9:00</td>
     <td></td>
   </tr>
     <tr>
