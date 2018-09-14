@@ -15,6 +15,8 @@
 
 ### Telegram
 * [Чат 2-ой группы](https://t.me/joinchat/ADMP3VFYTP7EoizUYT2frg)
+* [Чат 4-ой группы](https://t.me/joinchat/BSwQA0nY3ueMOZ8gFhe-kQ)
+
 
 ### План курса
 <table>
