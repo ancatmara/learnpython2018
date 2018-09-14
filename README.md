@@ -15,6 +15,8 @@
 
 ### Telegram
 * [Чат 2-ой группы](https://t.me/joinchat/ADMP3VFYTP7EoizUYT2frg)
+* [Чат 4-ой группы](https://t.me/joinchat/BSwQA0nY3ueMOZ8gFhe-kQ)
+
 
 ### План курса
 <table>
@@ -31,7 +33,7 @@
       2. <a href="./Lessons/1/cmd cheatsheet.md">Консольный git.</a><br>
       3. <a href="./Lessons/1/Markdown.md">Оформление репозитория и Markdown.</a></td>
     <td><a href="./Homeworks/HW1.md">Виселица</a></td>
-    <td>15.09 9:00</td>
+    <td>22.09 9:00</td>
     <td></td>
   </tr>
     <tr>
