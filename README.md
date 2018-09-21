@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td>3.</td>
-    <td>JSON</td>
+    <td><a href="https://github.com/ancatmara/learnpython2018/blob/master/Lessons/3/3.%20JSON.ipynb">JSON</a></td>
     <td></td>
     <td></td>
     <td></td>
