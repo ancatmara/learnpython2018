@@ -50,34 +50,35 @@
     <td></td>
     <td></td>
    </tr>
-    <tr>
+  <tr>
     <td>4.</td>
-    <td>Лемматизация и POS-tagging: Mystem</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>5.</td>
-    <td>Лемматизация и POS-tagging: pymystem3, pymorphy2</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>6.</td>
     <td>Краулеры и urllib</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
     <tr>
-    <td>7.</td>
+    <td>5.</td>
     <td>Парсинг HTML и XML-документов: lxml, bs4</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
+   <tr>
+    <td>6.</td>
+    <td>Лемматизация и POS-tagging: Mystem</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>7.</td>
+    <td>Лемматизация и POS-tagging: pymystem3, pymorphy2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    
     <tr>
     <td>8.</td>
     <td>Веб: запросы и формы</td>
