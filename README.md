@@ -33,7 +33,7 @@
       2. <a href="./Lessons/1/cmd cheatsheet.md">Консольный git.</a><br>
       3. <a href="./Lessons/1/Markdown.md">Оформление репозитория и Markdown.</a></td>
     <td><a href="./Homeworks/HW1.md">Виселица</a></td>
-    <td>22.09 9:00</td>
+    <td>22 сентября, 9:00</td>
     <td></td>
   </tr>
     <tr>
@@ -46,8 +46,8 @@
   <tr>
     <td>3.</td>
     <td><a href="https://github.com/ancatmara/learnpython2018/blob/master/Lessons/3/3.%20JSON.ipynb">JSON</a></td>
-    <td></td>
-    <td></td>
+    <td><a href="./Homeworks/HW2.md">GitHub Users</a></td>
+    <td>Группы №2 и №4:<br>29 сентября, 9:00 </td>
     <td></td>
    </tr>
   <tr>
