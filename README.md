@@ -52,7 +52,8 @@
    </tr>
   <tr>
     <td>4.</td>
-    <td>Краулеры и urllib</td>
+    <td><a href="https://github.com/ancatmara/learnpython2018/blob/master/Lessons/4/4a.%20Urllib.ipynb">urllib</a>
+      и <a href="https://github.com/ancatmara/learnpython2018/blob/master/Lessons/4/4b.%20%D0%9A%D1%80%D0%B0%D1%83%D0%BB%D0%B5%D1%80%D1%8B.ipynb">Краулеры</a></td>
     <td></td>
     <td></td>
     <td></td>
