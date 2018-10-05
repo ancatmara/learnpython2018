@@ -60,7 +60,7 @@
   </tr>
     <tr>
     <td>5.</td>
-    <td>Парсинг HTML и XML-документов: lxml, bs4</td>
+    <td><a href="https://github.com/ancatmara/learnpython2018/blob/master/Lessons/4/bs4_lxml.ipynb">Парсинг HTML и XML-документов: lxml, bs4</a></td>
     <td></td>
     <td></td>
     <td></td>
