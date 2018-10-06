@@ -63,7 +63,7 @@
     <td><a href="https://github.com/ancatmara/learnpython2018/blob/master/Lessons/4/lxml_bs4.ipynb">Парсинг HTML и XML-документов: lxml, bs4</a></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><a href='https://docs.google.com/spreadsheets/d/1kC9aK4j5PvoPNVY5NY2DY_H1Pbv398RC2LAP6W0z1yQ/edit?usp=sharing'>Газеты</a></td>
   </tr>
    <tr>
     <td>6.</td>
