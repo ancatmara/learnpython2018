@@ -69,7 +69,7 @@
     <td>6.</td>
     <td><a href='https://github.com/ancatmara/learnpython2018/blob/master/Lessons/6/6.%20Mystem.md'>Лемматизация и POS-tagging: Mystem</a></td>
     <td><a href='https://github.com/ancatmara/learnpython2018/blob/master/Homeworks/Project.ipynb'>Собираем газетный корпус </a></td>
-    <td>29.09 10:00</td>
+    <td>29 октября, 10:00</td>
     <td></td>
   </tr>
     <tr>
