@@ -68,8 +68,8 @@
    <tr>
     <td>6.</td>
     <td><a href='https://github.com/ancatmara/learnpython2018/blob/master/Lessons/6/6.%20Mystem.md'>Лемматизация и POS-tagging: Mystem</a></td>
-    <td></td>
-    <td><a href='https://github.com/ancatmara/learnpython2018/blob/master/Homeworks/PapersHW.md'>Собираем газетный корпус к 27.09</a></td>
+    <td><a href='https://github.com/ancatmara/learnpython2018/blob/master/Homeworks/PapersHW.md'>Собираем газетный корпус </a></td>
+    <td>27.09</td>
     <td></td>
   </tr>
     <tr>
