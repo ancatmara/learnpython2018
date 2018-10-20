@@ -69,14 +69,7 @@
     <td>6.</td>
     <td><a href='https://github.com/ancatmara/learnpython2018/blob/master/Lessons/6/6.%20Mystem.md'>Лемматизация и POS-tagging: Mystem</a></td>
     <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>7.</td>
-    <td><a href='https://github.com/ancatmara/learnpython2018/blob/master/Lessons/7/7.%20pymorphy2%2C%20pymystem3.ipynb'>Лемматизация и POS-tagging: pymystem3, pymorphy2</a></td>
-    <td></td>
-    <td></td>
+    <td><a href='https://github.com/ancatmara/learnpython2018/blob/master/Homeworks/PapersHW.md'>Собираем газетный корпус к 27.09</a></td>
     <td></td>
   </tr>
     <tr>
