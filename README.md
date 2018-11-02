@@ -74,35 +74,35 @@
   </tr>
     <tr>
     <td>8.</td>
-    <td>Веб: запросы и формы</td>
+    <td><a href="https://github.com/ancatmara/learnpython2018/tree/master/Lessons/8">Веб: запросы и формы</a></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>9.</td>
-    <td>Веб-приложения: flask (1)</td>
+    <td><a href="https://github.com/ancatmara/learnpython2018/tree/master/Lessons/9-10">Веб-приложения: flask (1)</a></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>10.</td>
-    <td>Веб-приложения: flask (2)</td>
+    <td><a href="https://github.com/ancatmara/learnpython2018/tree/master/Lessons/9-10">Веб-приложения: flask (2)</a></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>11.</td>
-    <td>Визуализация данных: matplotlib, ggplot, seaborn</td>
+    <td><a href="https://github.com/ancatmara/learnpython2018/tree/master/Lessons/11">Визуализация данных: matplotlib, ggplot, seaborn</a></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>12.</td>
-    <td>Хостинг веб-приложений. Heroku. Командная строка.</td>
+    <td><a href="https://github.com/ancatmara/learnpython2018/tree/master/Lessons/12">Хостинг веб-приложений. Heroku. Командная строка.</a></td>
     <td></td>
     <td></td>
     <td></td>
