@@ -1,18 +1,36 @@
 <!DOCTYPE html>
+
+<!-- Everything before <html> tag is used to beautify the webpage. You can copy it to your website without changing it for the same effect. -->
+
+ <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>Привет!</title>
 </head>
+
 <body>
-<h1>Привет, {{ name }}!</h1>
-<p>Твой возраст: {{ age }}</p>
-<p>
-    Ты
-    {% if not student %}
-    не
-    {% endif %}
-    студент.
-</p>
+<center>
+	<h1>Привет, {{ name }}!</h1>
+	<p>Твой возраст: {{ age }}</p>
+	<p>
+		Ты
+		{% if not student %}
+		не
+		{% endif %}
+		студент.
+	</p>
+</center>
 </body>
+
 </html>

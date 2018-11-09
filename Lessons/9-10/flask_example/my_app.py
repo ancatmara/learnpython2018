@@ -21,8 +21,8 @@ def index():
 @app.route('/hi/<user>')
 def hi(user=None):
     if user is None:
-        user = 'friend'
-    return '<html><body><p>Привет, ' + user + '!</p></body></html>'
+        user = 'друг'
+    return '<html><body><center><h1>Привет, ' + user + '!</h1></center></body></html>'
 
 
 @app.route('/form')
