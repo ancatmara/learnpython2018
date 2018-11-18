@@ -89,8 +89,8 @@
     <tr>
     <td>10.</td>
     <td><a href="https://github.com/ancatmara/learnpython2018/tree/master/Lessons/9-10">Веб-приложения: flask (2)</a></td>
-    <td></td>
-    <td></td>
+    <td><a href="https://github.com/ancatmara/learnpython2018/blob/master/Homeworks/QuestionnaireHW.md"> Сайт-анкета </a></td>
+    <td>2 декабря, 10:00</td>
     <td></td>
   </tr>
     <tr>
