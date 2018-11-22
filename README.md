@@ -102,21 +102,21 @@
   </tr>
     <tr>
     <td>12.</td>
-    <td><a href="https://github.com/ancatmara/learnpython2018/tree/master/Lessons/12">Хостинг веб-приложений. Heroku. Командная строка.</a></td>
+    <td><a href="https://github.com/ancatmara/learnpython2018/tree/master/Lessons/12">Базы данных: sqlite3</a></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>13.</td>
-    <td>Регулярные выражения (повторение). Обсуждение финального проекта.</td>
+    <td><a href="https://github.com/ancatmara/learnpython2018/tree/master/Lessons/13">Хостинг веб-приложений. Heroku. Командная строка.</a></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
     <tr>
     <td>14.</td>
-    <td>Базы данных: sqlite3</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
