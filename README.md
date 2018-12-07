@@ -103,8 +103,8 @@
     <tr>
     <td>12.</td>
     <td><a href="https://github.com/ancatmara/learnpython2018/tree/master/Lessons/12">Базы данных: sqlite3</a></td>
-    <td></td>
-    <td></td>
+      <td><a href="https://github.com/ancatmara/learnpython2018/blob/master/Homeworks/HW5.md">Поисковик для корпуса</a></td>
+    <td>28 декабря, 10:00</td>
     <td></td>
   </tr>
     <tr>
