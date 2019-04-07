@@ -113,8 +113,8 @@
 ### План курса: 4 модуль
 №|Семинар|Домашнее задание|Дедлайн|Комментарий
 ---|---|---|---|---
-1.|[VK API](https://github.com/ancatmara/learnpython2018/blob/master/Lessons/VK%20API/14.%20VK%20API%20(1).ipynb)|||
-2.||||
+1.|[VK API (1)](https://github.com/ancatmara/learnpython2018/blob/master/Lessons/VK%20API/14.%20VK%20API%20(1).ipynb)|||
+2.|[VK API (2)](https://github.com/ancatmara/learnpython2018/blob/master/Lessons/VK%20API/15.%20VK%20API%20(2).ipynb)|||
 3.||||
 4.||||
 5.||||
