@@ -114,7 +114,7 @@
 №|Семинар|Домашнее задание|Дедлайн|Комментарий
 ---|---|---|---|---
 1.|[VK API (1)](https://github.com/ancatmara/learnpython2018/blob/master/Lessons/VK%20API/14.%20VK%20API%20(1).ipynb)|||
-2.|[VK API (2)](https://github.com/ancatmara/learnpython2018/blob/master/Lessons/VK%20API/15.%20VK%20API%20(2).ipynb)|||
+2.|[VK API (2)](https://github.com/ancatmara/learnpython2018/blob/master/Lessons/VK%20API/15.%20VK%20API%20(2).ipynb)|[HW6](./Homeworks/HW6.md)|См. в описании домашки|
 3.||||
 4.||||
 5.||||
