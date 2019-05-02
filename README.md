@@ -116,7 +116,7 @@
 1.|[VK API (1)](./Lessons/VK%20API/14.%20VK%20API%20(1).ipynb)|||
 2.|[VK API (2)](./Lessons/VK%20API/15.%20VK%20API%20(2).ipynb)|[HW6](./Homeworks/HW6.md)|См. в описании домашки|
 3.|[word2vec](./Lessons/Word2vec)|||
-4.||||
+4.|—|Необязательное домашнее задание: [flask & pymorphy](./Homeworks/AdditionalHW.md)|См. в описании домашки|
 5.||||
 6.||||
 7.||||
