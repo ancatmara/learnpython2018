@@ -117,7 +117,7 @@
 2.|[VK API (2)](./Lessons/VK%20API/15.%20VK%20API%20(2).ipynb)|[HW6](./Homeworks/HW6.md)|См. в описании домашки|
 3.|[word2vec](./Lessons/Word2vec)|||
 4.|—|Необязательное домашнее задание: [flask & pymorphy](./Homeworks/AdditionalHW.md)|См. в описании домашки|
-5.||||
+5.|[Сетевой анализ, NetworkX](./Lessons/%D0%93%D1%80%D0%B0%D1%84%D1%8B/%D0%93%D1%80%D0%B0%D1%84%D1%8B,%20networkx.ipynb)|||
 6.||||
 7.||||
 8.||||
