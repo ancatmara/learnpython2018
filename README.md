@@ -119,9 +119,9 @@
 4.|—|Необязательное домашнее задание: [flask & pymorphy](./Homeworks/AdditionalHW.md)|См. в описании домашки|
 5.|[Сетевой анализ, NetworkX](./Lessons/%D0%93%D1%80%D0%B0%D1%84%D1%8B/%D0%93%D1%80%D0%B0%D1%84%D1%8B,%20networkx.ipynb)|||
 6.||[NetworkX](./Homeworks/HW7.md)||
-7.||||
-8.||||
-9.||||
+7.|[Heroku](./Lessons/Heroku%20%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0/13a.%20Heroku.md)|||
+8.|[Telegram-боты (1)](./Lessons/Telegram-%D0%B1%D0%BE%D1%82%D1%8B/TelegramBot1.ipynb)|||
+9.|[Telegram-боты (2)](./Lessons/Telegram-%D0%B1%D0%BE%D1%82%D1%8B/TelegramBot2.ipynb)|||
 10.||||
 11.||||
 12.||||
