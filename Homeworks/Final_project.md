@@ -1,7 +1,7 @@
 
 ## Заготовки тем для финальных проектов
 
-**Свою тему нужно будет вписать [вот в эту табличку](https://github.com/ancatmara/learnpython2018/blob/master/Homeworks/HW7.md).**
+**Свою тему нужно будет вписать [вот в эту табличку](https://docs.google.com/spreadsheets/d/18KH0d2gKIFB5Ddl3YYPbkYpyj0Ob_qSYpINiE77VHyg/edit?usp=sharing).**
 
 Код проекта должен быть выложен в репозиторий в папку `FinalProject`, а также на `heroku`. Т.е. веб-сервис или телеграм-бот должен работать вне зависимости от того, запущен ли код на вашем/чьем-то другом компьютере. Ссылка на ваше herokuapp должна быть в `README` в папке с проектом.
 
