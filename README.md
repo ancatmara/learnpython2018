@@ -1,6 +1,6 @@
 # Python for Linguists 2018
 
-Python course for 2nd year NLP students at NRU HSE // Семинары по программированию на Python для 2 курса Школы Лингвистики НИУ ВШЭ
+Семинары по программированию на Python для 2 курса Школы Лингвистики НИУ ВШЭ, 2018-2019 гг.
 
 ### Преподаватели
 * Оксана Владимировна Дереза ([почта](mailto:oksana.dereza@gmail.com), [telegram](https://t.me/ancatmara))
