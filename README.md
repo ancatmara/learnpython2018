@@ -1,6 +1,7 @@
 # Python for Linguists 2018
 
-Семинары по программированию на Python для 2 курса Школы Лингвистики НИУ ВШЭ
+Python course for 2nd year NLP students at NRU HSE // Семинары по программированию на Python для 2 курса Школы Лингвистики НИУ ВШЭ
+
 ### Преподаватели
 * Оксана Владимировна Дереза ([почта](mailto:oksana.dereza@gmail.com), [telegram](https://t.me/ancatmara))
 * Дарья Павловна Попова ([почта](mailto:daschapopowa@gmail.com))
@@ -122,10 +123,5 @@
 7.|[Heroku](./Lessons/Heroku%20%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0/13a.%20Heroku.md)|||
 8.|[Telegram-боты (1)](./Lessons/Telegram-%D0%B1%D0%BE%D1%82%D1%8B/TelegramBot1.ipynb)|||
 9.|[Telegram-боты (2)](./Lessons/Telegram-%D0%B1%D0%BE%D1%82%D1%8B/TelegramBot2.ipynb)|||
-10.||||
-11.||||
-12.||||
-13.||||
-14.||||
-15.||||
+
 
